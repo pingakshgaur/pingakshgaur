@@ -13,7 +13,7 @@ Bengaluru, IN | AI Explorer & Student Developer | Full-Stack Builder<br>
 > I build what I learn—NLP-powered tutors, desktop automation, experimental projects that push what I know.
 > Always learning. Always building. Always reaching for the next challenge.
 
-##### Connect: [![LinkedIn](https://img.shields.io/badge/-Linked%20In-0A66C2?style=social&logo=linkedin&logoColor=white)](#) #####
+##### Connect: [![LinkedIn](https://img.shields.io/badge/-Linked%20In-0A66C2?style=flat&logo=linkedin&logoColor=white)](#) #####
 
 
 <!---
