@@ -1,24 +1,27 @@
-# Hello there!👋 I am [Pingaksh Gaur!](https://github.com/pingakshgaur) #
+## Hey Curious mind! I am [Pingaksh Gaur!](https://www.linkedin.com/in/pingakshgaur) #
 
-**🎓 Bachelor's Computer Applications - Data Science | Class of 2028** @ Presidency University<br>
-📍Bengaluru | AI Explorer & Developer | Full-Stack Builder<br>
+**Bachelor's Computer Applications, Specialization in Data Science**<br>
+_Class of 2028_, [Presidency University](https://presidencyuniversity.in/)
+
+Bengaluru, IN | AI Explorer & Student Developer | Full-Stack Builder<br>
 
 > Learning to code by breaking things and building them better.
 >
-> Started with Python in 8th grade making Flappy Bird clones. Now building Multilingual AI chatbots that break language barriers in Education and voice assistants that automate real workflows on your desktop.
+> Started with Python in 8th grade, making Flappy Bird clones. Now building complex AI-powered projects.
 > The projects evolved from simple games to tools that solve actual problems.
 >
 > I build what I learn—NLP-powered tutors, desktop automation, experimental projects that push what I know.
 > Always learning. Always building. Always reaching for the next challenge.
 
-##### Connect : [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#) #####
+##### Connect: [![LinkedIn](https://img.shields.io/badge/-Linked%20In-0A66C2?style=social&logo=linkedin&logoColor=white)](#) #####
+
 
 <!---
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7043?style=flat-square&logo=briefcase&logoColor=white)](#) _(Coming Soon!)_
 --->
 
 ---
-## Skill set that I currently have:
+## Skill:
 *Languages:* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)<br>
 
 *AI/ML & Data Science:* `NLTK`, `SUMY`, `NLP`, ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white), `Data Analysis`<br>
@@ -49,21 +52,11 @@ Web-based PDF manipulation | JavaScript, Flask
 
 ---
 
-## Currently busy with:
-
-- Aiming for GSoC'27
-- Building Face & Hand Gesture Tools for Specific Processes
-- Active in Hackathons & Learning Open-Source contributions
-- Deep-diving into advanced NLP & Data Sciences
-
----
-
 ## A little about me... ##
-- I love _Dogs_
-- Usually prefer _Gaming_ in my free time
-- _Trekking_ is the detox button for my brain
-- _CINEMA & MUSIC_ are my only addictions :)
+- i love dogs
+- prefer gaming in my free time
+- cinema & music are my only addictions :)
 
 ---
 
-### 💬 Open to collaborating Advanced/Team Projects, Unique Ideas, and Open-Source contributions! ###
+> ### Open to collaborating Advanced/Team Projects, Unique Ideas, and Open-Source contributions! ###
